@@ -1,8 +1,8 @@
 # RadarWhileDriving
 
 ### Informations
-# It's terribly easy, but unfortunately people are sometimes stupid and can't do it.
-# 0.01 ms
+- It's terribly easy, but unfortunately people are sometimes stupid and can't do it.
+- 0.01 ms
 
 ### Installation
 ```
