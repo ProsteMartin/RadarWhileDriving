@@ -6,7 +6,7 @@
 
 ### Installation
 ```
-# 1. Install esx_showjob
+# 1. Install RadarWhileDriving
 # 2. Drag it into your resources
-# 3. Add "start esx_showjob" to your server.cfg
+# 3. Add "start RadarWhileDriving" to your server.cfg
 ```
