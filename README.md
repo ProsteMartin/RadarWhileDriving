@@ -2,7 +2,7 @@
 
 ### Informations
 - It's terribly easy, but unfortunately people are sometimes stupid and can't do it.
-- 0.01 ms
+- 0.00 ms
 
 ### Installation
 ```
