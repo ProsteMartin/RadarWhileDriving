@@ -1,8 +1,6 @@
 CreateThread(function()
 	Wait(100)
-
 	while true do
-		local sleepThread = 500
 		local PlayerPed = PlayerPedId()
 		local radarEnabled = IsRadarEnabled()
 
@@ -12,6 +10,6 @@ CreateThread(function()
 			DisplayRadar(true)
 		end
 
-		Wait(sleepThread)
+		Wait(500)
 	end
 end)
